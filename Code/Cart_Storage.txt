@@ -1,0 +1,4 @@
+EL035,blouse,40.0,S, blue,Clothing
+C047,FROCK,20.0,S, RED,Clothing
+C025,SHIRT,22.0,XL, BLUE,Clothing
+C005,FROCK,25.0,S, WHITE,Clothing
